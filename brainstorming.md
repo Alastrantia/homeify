@@ -1,4 +1,4 @@
-## ideas for homeify:
+## ideas for lykzr:
 - ad free ofc
 - tracking free
 - highly customizable
